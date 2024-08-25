@@ -18,23 +18,23 @@ export const assets = {
 
 export const products = [
     {
-        _id:"",
-        name:"",
-        description: "",
+        _id:"001",
+        name:"Ear rings",
+        description: "blaaaaaa",
         price:100,
         image:[],
-        category:"",
+        category:"Earrings",
         size: ["S" , "M" , "L"],
         date:124578,
         bestseller: true
     },
     {
-        _id:"",
-        name:"",
-        description: "",
+        _id:"002",
+        name:"pendant",
+        description: "sadhasjd",
         price:100,
         image:[],
-        category:"",
+        category:"Neck less",
         size: ["S" , "M" , "L"],
         date:124578,
         bestseller: true
